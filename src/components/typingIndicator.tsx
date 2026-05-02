@@ -1,3 +1,4 @@
+"use client";
 export default function TypingIndicator() {
   return (
     <div className="flex items-end gap-3 msg-enter">

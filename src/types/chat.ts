@@ -1,3 +1,4 @@
+"use client";
 export type Role = "user" | "assistant" | "system";
 
 export interface Message {
